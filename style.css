@@ -1,0 +1,25 @@
+.heading {
+    font-size: 30px;
+    font-family: 'Georama', sans-serif;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 10px 10px 20px rgb(238, 206, 150);
+    color: #ffa600;
+    background-color:rgb(235, 107, 52);
+}
+
+.noob {
+    float: none;
+    background-color: #3e2000;
+    border-radius: 10px;
+    padding: 10px;
+    color: #ff4000;
+    box-shadow: 7px 7px 5px rgb(0, 0, 0);
+}
+
+.bot{
+    margin-top: 2px;
+    font-size: 20px;
+    box-shadow: 7px 7px 5px rgb(235, 107, 52);
+    color:rgb(235, 107, 52)
+}
